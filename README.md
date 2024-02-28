@@ -28,11 +28,8 @@ Implement a signal that automatically updates the "created_at" field of the prod
 - Django (3.0 or higher)
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/yourusername/django-product-management-api.git`
-2. Navigate to the project directory: `cd django-product-management-api`
 3. Install dependencies: `pip install -r requirements.txt`
 
 ### Run the Development Server
 Run the Django development server:
-```bash
 python manage.py runserver
